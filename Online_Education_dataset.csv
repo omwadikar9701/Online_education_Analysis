@@ -1,0 +1,308 @@
+id,State,name,education,gender,college,area,device,isp,networkingdevice,powercut,powerbackup,hour,phi_ear,phi_eye,phi_joint,phi_obesity,device_hunged,answering_question,completing_assignment,submitting_assignment,understanding_online,lab_problem,Preferance
+1,Maharashtra,Shreya Patil,pg science,female,"MIT,Pune",Sangli,laptop,airtel,mobile data,2,no,5,no,yes,yes,yes,7,2,9,9,5,3,No
+2,Maharashtra,saloni Mali,pg science,female,Cummins,Pune,mobile,airtel,mobile data,3,no,6,no,yes,no,yes,1,5,10,10,6,1,Yes
+3,Maharashtra,Mitali Dandekar,pg science,female,MIT,Pune,laptop,local wifi,wifi,5,no,6,no,yes,yes,yes,1,5,8,9,6,9,No
+4,Maharashtra,Chintan Makwana,pg science,male,MIT WPU,MAHARASHTRA,laptop,local wifi,wifi,2,no,7,no,no,yes,yes,3,5,4,10,7,7,No
+5,Maharashtra,Priti Bogawat,pg science,female,DR. VISHWANATH KARAD MIT WORLD PEACE UNIVERSITY,Maharashtra,laptop,idea,mobile data,1,yes,7,no,yes,yes,no,2,7,10,10,9,7,Yes
+6,Maharashtra,Tanmay Pravin Borde,pg science,male,MIT WPU,Maharashtra,mobile,jio,mobile data,1,no,7,no,yes,yes,no,4,5,5,6,6,2,No
+7,Maharashtra,Durvesh Danve,pg science,male,MIT WPU,Pune,laptop,hathway,wifi,1,no,7,no,no,no,no,1,10,10,10,9,2,No
+8,Maharashtra,Raj Pawar,pg science,male,Mit wpu,Pune,laptop,local wifi,wifi,2,no,7,no,no,yes,yes,1,7,7,7,3,8,No
+9,Gujarat,DeepTrivesi,pg science,male,MIT wpc,Gujarat,laptop,jio,mobile data,1,yes,8,no,no,no,no,1,8,10,10,10,8,Yes
+10,Gujarat,Nidhi Patel,pg science,female,MIT,Surat,laptop,local wifi,wifi,2,no,8,no,no,no,no,1,8,10,10,5,7,Yes
+11,Maharashtra,Ajinkya Kuchake,pg science,male,MIT-WPU,Pune,laptop,jio,mobile data,5,no,10,no,yes,yes,yes,3,5,10,9,7,7,No
+12,Maharashtra,Kiran satpute,pg science,male,Mit wpu,Sangamner,laptop,jio,mobile data,6,no,7,no,yes,yes,yes,6,6,8,10,8,7,Yes
+13,Maharashtra,Shatakshi Mulay,pg science,female,MITWPU,PUNE,laptop,hathway,wifi,6,no,6,yes,yes,yes,no,3,5,8,7,4,7,No
+14,Maharashtra,Manasi R.,pg science,female,MIT,Pune,laptop,jio,mobile data,6,no,9,no,no,yes,yes,5,5,10,9,5,5,No
+15,Maharashtra,Siddhesh Khade,pg science,male,mit,pune,laptop,local wifi,wifi,5,no,9,no,yes,no,no,2,5,9,9,5,10,No
+16,Maharashtra,Shweta Avachat,pg science,female,MIT-WPU,Maharashtra,mobile,jio,wifi,3,yes,8,no,no,no,no,2,5,9,10,7,6,No
+17,Bihar,Manu jha,ug arts,male,Galgotia university,Delhi NCR,laptop,jio,wifi,2,yes,5,no,yes,yes,no,2,5,10,10,8,8,No
+18,Maharashtra,DHANASHREE ASHOK MEHTA,pg science,female,MIT - WPU,Maharashtra,laptop,airtel,mobile data,1,no,8,no,yes,yes,yes,1,5,9,8,3,4,No
+19,Maharashtra,Shreya,ug science,male,Cummins pune,Karve nagar,laptop,jio,mobile data,2,yes,4,no,no,no,yes,2,3,6,5,7,6,Yes
+20,Maharashtra,Atharva Pasalkar,pg science,male,MITWPU,Pune,laptop,local wifi,wifi,3,no,7,no,yes,no,yes,8,4,9,10,5,3,No
+21,Maharashtra,Pradnya tawar,pg science,female,MIT-WPU,Nagpur,laptop,airtel,wifi,1,no,6,no,no,yes,no,3,3,10,10,6,6,Yes
+22,Maharashtra,Sapna sakhare,ug science,female,Siddhivinayak college,Pune,laptop,idea,mobile data,5,no,6,yes,yes,no,yes,3,3,5,10,5,10,Yes
+23,Maharashtra,SAIF PATEL,pg science,male,MITWPU,Maharashtra,mobile,local wifi,mobile data,1,yes,6,no,no,no,no,1,6,10,10,8,8,No
+24,Maharashtra,Onkar,pg science,male,MITWPU,Kothrud,laptop,jio,wifi,3,no,6,no,no,no,no,3,4,8,9,6,4,No
+25,Maharashtra,Pavan shewale,ug science,male,Walchand institute of technology,Solapur,mobile,airtel,mobile data,6,no,4,yes,yes,no,no,6,4,7,4,5,5,Yes
+26,Karnataka,Manish,pg science,male,MIT,Pune,laptop,local wifi,wifi,4,no,7,no,no,yes,no,6,5,8,8,6,6,Yes
+27,Maharashtra,Gayatri Deshpande,pg science,female,MIT-WPU,MAHARASHTRA,laptop,local wifi,wifi,6,yes,10,no,yes,yes,no,7,8,10,10,6,5,No
+28,Maharashtra,Shubham Misal,pg science,male,MIT WPU,Maharashtra,laptop,bsnl,wifi,2,yes,9,yes,yes,yes,yes,5,6,10,10,8,4,Yes
+29,Maharashtra,Dhanashri Indrabhan Dhawade,pg science,female,MES Garware College of Arts And Science,Sadashiv peth,mobile,jio,mobile data,7,yes,4,no,yes,no,yes,5,6,10,10,5,8,No
+30,Bihar,Rahul,ug commerce,male,ACCA,Pune,mobile,jio,mobile data,6,yes,4,yes,yes,yes,yes,4,5,4,3,4,2,Yes
+31,Maharashtra,Mrunal Gosavi,pg science,female,MIT,"Pune,Maharashtra",laptop,hathway,wifi,1,no,7,no,no,no,no,2,4,10,10,6,9,Yes
+32,Maharashtra,Ranjan Parab,pg science,male,MIT-WPU PUNE,Maharashtra,laptop,local wifi,wifi,1,no,7,no,no,no,yes,1,6,10,10,8,1,Yes
+33,Maharashtra,Aware Prashant Kailas,pg science,male,MIT WPU,Pune,laptop,local wifi,wifi,5,no,6,no,no,yes,no,1,7,10,9,8,7,Yes
+34,Maharashtra,Shubhankar,ug arts,male,Symbiosis College of Arts and Commerce,Pune,laptop,hathway,wifi,3,yes,2,no,yes,no,no,7,4,9,10,8,9,No
+35,Maharashtra,Prateeksha Biswas,pg science,female,MIT-WPU,Pune,laptop,local wifi,wifi,3,no,7,no,yes,no,yes,5,5,1,1,5,6,No
+36,Maharashtra,Madhura Bhuse,ug commerce,female,HNCC,Solapur,mobile,jio,mobile data,3,yes,4,yes,no,no,yes,2,5,8,8,4,4,No
+37,Maharashtra,Sanjana chaudhary,pg science,female,MIT WPU,PUNE,laptop,airtel,wifi,7,no,7,no,yes,no,yes,7,6,10,10,7,5,Yes
+38,Maharashtra,Nayana Dhanaraj Kale,ug science,female,"Shri sidhhivinayak mahila mahavidhylaya,pune","Dhayri,pune",mobile,jio,mobile data,7,no,5,no,yes,no,no,8,9,9,9,8,8,Yes
+39,Maharashtra,Vaishnavi Chakorkar,ug science,female,Dkte institute Ichalkaranji,Kolhapur Maharashtra,mobile,airtel,mobile data,3,yes,8,no,yes,yes,yes,8,5,9,10,4,7,No
+40,Maharashtra,Amey Shaligram,pg science,male,MIT WPU,Pune,laptop,local wifi,wifi,2,no,7,no,no,yes,no,2,4,9,9,7,5,No
+41,Maharashtra,Gunji Prem Prasad,ug science,male,Karunya University,Coimbatore Tamil Nadu,laptop,airtel,mobile data,1,no,8,no,yes,yes,no,1,10,10,10,7,10,Yes
+42,Jharkhand,Abhilash,ug commerce,male,BIT mesra,Ranchi,mobile,airtel,mobile data,2,yes,4,no,no,yes,no,1,7,10,10,8,3,No
+43,Maharashtra,Gayatri patki,ug science,female,Cummins pune,Maharashtra,mobile,airtel,mobile data,5,no,6,yes,yes,yes,yes,6,6,9,10,7,7,Yes
+44,Maharashtra,Snehal Raju Tanpure,pg science,female,Shree Siddhivinayak Mahila Mahavidyalaya,Maharashtra,mobile,idea,wifi,2,no,8,no,yes,no,no,5,8,8,8,8,8,No
+45,Maharashtra,Shreyas Kulkarni,pg science,male,MIT-WPU,"Shrirampur,Ahmednagar,Maharashtra",laptop,jio,mobile data,7,yes,7,no,yes,no,no,3,7,9,9,7,7,No
+46,Maharashtra,Prasad s Roundhal,pg science,male,MIT WPU,PUNE,laptop,idea,mobile data,1,no,7,no,yes,yes,no,2,7,10,9,5,6,No
+47,Punjab,Vaishvi Raina,ug science,female,Cummins college of engineering,Pune,laptop,jio,wifi,9,yes,8,no,no,yes,yes,8,4,10,10,5,9,Yes
+48,Bihar,Subh,ug commerce,male,Bhawanipur,Kolkata,laptop,jio,mobile data,6,yes,5,no,no,yes,no,3,8,10,8,5,6,No
+49,West Bengal,Kumud Jha,ug law,female,NIMT,Greater Noida,mobile,jio,wifi,8,yes,3,no,no,no,no,9,4,8,6,5,5,No
+50,Maharashtra,Devendra Muley,ug science,male,Walchand Institute of Technology,Solapur,mobile,airtel,mobile data,8,no,6,no,yes,yes,no,3,1,7,8,5,9,No
+51,Maharashtra,Namrata Rajesaheb Rankhamb,ug science,female,Mksss's Cummins College of engineering for women,Pune,mobile,jio,mobile data,5,no,5,no,yes,yes,no,7,1,5,5,2,6,No
+52,Maharashtra,Tanvee,pg science,female,Nowrosjee Wadia College,Pune,mobile,wifi,wifi,1,yes,7,no,no,no,no,1,8,9,10,8,2,Yes
+53,Maharashtra,Pratiksha mahangare,ug science,female,Shree Siddhivinayak mahila Mahavidyalaya Pune,Karve nagar pune,mobile,jio,mobile data,2,no,3,no,yes,no,no,1,3,6,8,5,7,No
+54,Maharashtra,SHRADDHA,pg science,female,MIT WPU,PUNE,mobile,jio,mobile data,8,yes,8,no,yes,yes,no,9,5,10,10,7,8,Yes
+55,Maharashtra,Onkar Narote,ug science,male,"WIT,Solapur","Maharashtra,India",mobile,airtel,mobile data,3,no,5,no,yes,no,yes,3,1,7,8,6,8,No
+56,Maharashtra,Saurabh,ug science,male,College of engineering,Maharashtra,mobile,airtel,mobile data,5,no,10,no,yes,no,no,1,7,9,9,6,8,Yes
+57,Maharashtra,Akanksha Kulkarni,ug science,female,Walchand Institute of Technology,Solapur,mobile,bsnl,mobile data,8,yes,7,no,no,no,no,3,5,10,10,5,5,Yes
+58,Maharashtra,Kalpesh Zagade,pg science,male,MIT,Pune,laptop,jio,mobile data,3,no,6,no,no,no,no,2,5,10,8,7,5,No
+59,Maharashtra,Vaishnavi,pg science,female,MIT,Maharashtra,laptop,airtel,wifi,2,no,10,no,no,no,no,6,5,10,10,1,1,No
+60,Maharashtra,Raut Shreyas,pg science,male,DBF,Jule Solapur,laptop,jio,mobile data,6,no,10,yes,yes,no,yes,5,7,6,2,1,5,No
+61,Maharashtra,Anupreeta Arvind Bidarkote,ug science,female,"A.G.Patil Institute of Technology,Solapur",Soregaon,mobile,jio,mobile data,5,no,2,no,no,no,no,5,8,10,10,5,5,Yes
+62,Maharashtra,Prajakta Babasaheb Kumbhar,ug science,female,"Shree siddhiwinaayk mahila mahavidyala,karvenagar",Nira,mobile,jio,wifi,1,yes,2,no,no,no,no,1,10,10,10,10,10,Yes
+63,Maharashtra,Kshirsagar simran sanjay,ug science,female,Siddhivinayak mahila mahavidyalay,Karve nagar pune,mobile,jio,mobile data,2,no,2,no,no,no,no,1,3,2,10,4,3,No
+64,Maharashtra,Onkar Panchare,ug science,male,Walchand college of engineering Sangli,Sangli,mobile,jio,mobile data,8,no,10,no,yes,yes,no,8,6,8,10,6,7,Yes
+65,Maharashtra,Suyash jawale,pg science,male,Mmc,Pune,mobile,vodafone,mobile data,1,no,3,no,yes,no,yes,1,2,3,3,3,2,Yes
+66,Madhya Pradesh,Sonali Solanki,pg science,female,"MIT-WPU,Pune",Pune,laptop,jio,mobile data,1,no,7,no,no,yes,yes,2,5,10,10,7,9,No
+67,Maharashtra,Shivani Ganesh kashid,pg commerce,female,MIT,"Kothrud,Pune",mobile,jio,mobile data,2,yes,5,no,no,no,no,5,4,9,9,7,8,Yes
+68,Maharashtra,Pratiksha,ug science,female,Abasaheb garware,Kothrud,mobile,vodafone,mobile data,7,no,6,no,yes,no,yes,5,5,8,8,8,4,No
+69,National Capital Territory of Delhi,Aggarwal Drishti,pg science,female,MIT WPU,New Delhi,mobile,wifi,mobile data,5,yes,8,no,yes,no,yes,6,5,8,9,6,8,No
+70,Maharashtra,Vaishnavi,ug science,female,Sangameshwar college,Solapur,mobile,idea,wifi,2,no,2,no,no,yes,no,3,6,9,10,3,1,Yes
+71,Bihar,Vishesh Anand,ug commerce,male,"Bhawanipur college,Kolkata",Jharkhand,mobile,jio,mobile data,3,yes,3,no,no,no,no,1,6,7,5,2,1,Yes
+72,Maharashtra,Aniket Gawade,pg science,male,Mit-Wpu,Pune,mobile,local wifi,wifi,3,no,6,no,yes,yes,yes,3,5,9,9,6,4,Yes
+73,Maharashtra,Rutuja pardeshi,pg science,female,Cummins,Maharashtra,mobile,jio,wifi,3,yes,5,no,yes,no,no,4,5,6,6,5,6,No
+74,Maharashtra,Pooja Singh,pg commerce,female,Mit wpu pune,Maharashtra,mobile,bsnl,wifi,1,no,9,yes,no,no,yes,5,5,9,8,2,5,Yes
+75,Maharashtra,Shreya Jadhav,ug commerce,female,Sangmeshwer College,Solapur,mobile,idea,mobile data,1,no,5,yes,yes,no,no,3,4,5,5,5,6,Yes
+76,Bihar,Akanksha,ug law,female,Kle society law college,Jharkhand,laptop,local wifi,wifi,3,yes,5,no,yes,yes,yes,2,6,10,10,3,1,Yes
+77,West Bengal,Astha gupta,ug arts,female,"Lakshmibai College,DU",Delhi,mobile,jio,wifi,3,yes,2,no,yes,no,no,7,1,1,1,1,1,Yes
+78,Maharashtra,VAISHNAVI Anandkumar swami,ug arts,female,PSPM MAHILA HOMEOPATHIC MEDICAL COLLEGE,SOLAPUR ASHOK NAGAR,mobile,airtel,mobile data,2,no,7,no,yes,no,yes,2,1,1,10,5,10,Yes
+79,Bihar,Yosha sharma,ug commerce,female,"Bc roy engineering college,durgapur",Deoghar,mobile,jio,mobile data,4,yes,2,no,yes,no,no,1,5,5,1,6,5,No
+80,Maharashtra,Tejas Date,school,male,G A High School,Vishram bag Sangli,mobile,bsnl,wifi,2,yes,5,no,no,no,no,1,8,3,8,5,8,No
+81,Maharashtra,Tanuja Date,ug science,female,CIMDR SANGLI,Vishrambag sangli,mobile,bsnl,wifi,2,no,4,no,no,no,no,1,2,3,8,6,4,No
+82,Maharashtra,,ug science,male,,,mobile,airtel,mobile data,4,yes,5,no,no,no,no,7,4,3,4,3,2,No
+83,Bihar,Vibhanshu vaibhav,school,male,Coaching,Jharkhand,laptop,jio,mobile data,2,yes,9,no,no,yes,no,2,5,1,1,7,10,Yes
+84,Maharashtra,,ug science,male,,,laptop,jio,wifi,5,no,5,no,no,no,no,2,5,7,5,8,10,No
+85,Maharashtra,Surshree Kishor Jadhav,ug science,female,MKSSS Cummins college of engineering,Latur,mobile,jio,mobile data,7,no,8,no,yes,no,no,8,6,9,10,7,9,No
+86,Maharashtra,Neha Patil,ug science,female,"Cummins college of Engineering,Pune.",Pune,mobile,airtel,mobile data,3,no,5,no,no,yes,yes,3,5,8,4,5,7,Yes
+87,Maharashtra,Prachi Chandrakant Parvate,ug science,female,MKSSS's Cummins college of engineering for women,Karvenagar Pune,mobile,jio,mobile data,5,no,6,no,yes,yes,yes,5,3,5,5,2,5,Yes
+88,West Bengal,Shivam Ganguly,ug science,male,Amity University kolkata,West Bengal,laptop,local wifi,mobile data,2,yes,4,no,no,no,no,2,5,2,2,2,2,Yes
+89,Maharashtra,priyanka uttam dahikamble,ug science,female,Cummins college of engineering,MAHARASHTRA,laptop,jio,mobile data,6,no,8,yes,yes,yes,yes,8,4,7,9,7,6,Yes
+90,,Hrishikesh ekbote,ug science,male,Walchand,Solapur,laptop,airtel,mobile data,1,no,2,no,yes,yes,no,1,8,9,9,8,8,No
+91,West Bengal,Kundan Guria,ug commerce,male,St. Xaviers's College,Kolkata,mobile,jio,mobile data,4,yes,2,no,no,yes,yes,1,1,2,2,3,4,No
+92,Maharashtra,Devika joshi,ug science,female,YM college,Pune,mobile,idea,mobile data,1,no,2,no,yes,no,no,2,1,8,9,6,7,Yes
+93,Gujarat,Shah Meet M,pg science,male,mit,Gujarat,laptop,local wifi,mobile data,4,no,6,no,no,no,no,4,6,10,10,5,6,No
+94,Gujarat,Suraj Chauhan,ug science,male,Amity university,NCR,mobile,jio,mobile data,4,no,3,no,no,no,no,1,6,9,9,3,7,No
+95,Maharashtra,Saurabh Thapa,pg science,male,MIT-WPU,"Sriganganagar,Rajasthan",laptop,vodafone,mobile data,3,yes,7,no,yes,no,yes,6,1,9,8,5,4,No
+96,Maharashtra,Preeti Abnave,pg science,female,MKSS's Cummins College of Engineering for Women,Karvenagar,mobile,vodafone,mobile data,1,no,7,no,yes,no,yes,2,3,9,8,8,6,No
+97,Uttar Pradesh,Abhishek Kumar Singh,ug science,male,AMITY UNIVERSITY,Noida,mobile,jio,mobile data,7,yes,5,yes,yes,yes,yes,10,6,5,10,5,8,Yes
+98,West Bengal,shubham kujur,ug science,male,Assam Don Bosco University,Assam,laptop,local wifi,wifi,1,yes,9,no,no,no,no,1,10,10,9,10,8,Yes
+99,West Bengal,Gourab Sarkar,pg arts,male,BANARAS HINDU UNIVERSITY,West Bengal,mobile,jio,mobile data,2,yes,5,no,no,yes,yes,2,7,8,8,10,6,Yes
+100,West Bengal,Saion sadhukhan,ug arts,male,Bb college asansol,West Bengal,mobile,jio,mobile data,4,yes,2,no,yes,no,yes,3,6,7,6,6,5,No
+101,Uttar Pradesh,Vikash Pradhan,pg arts,male,Banaras Hindu University,Varanasi ( Uttar Pradesh),mobile,jio,mobile data,6,yes,4,yes,yes,yes,no,4,6,7,9,6,5,No
+102,National Capital Territory of Delhi,Sapna Jha,ug law,female,Amity law school (Noida),Delhi,mobile,airtel,wifi,3,no,5,no,no,no,yes,3,4,9,9,5,3,No
+103,West Bengal,Adarsh Saha,ug science,male,Netaji Subhash Engineering college,kolkata,laptop,local wifi,wifi,1,yes,5,yes,no,yes,yes,1,10,10,10,10,10,Yes
+104,National Capital Territory of Delhi,Rishabh,ug law,male,Amity University Noida,Noida up,mobile,airtel,wifi,1,yes,5,no,no,no,no,1,10,10,10,5,5,No
+105,Uttar Pradesh,shivanjal mishra,ug law,male,Amity law school Noida,Uttar Pradesh,mobile,jio,mobile data,9,yes,5,no,no,no,no,1,5,10,10,9,2,Yes
+106,Uttar Pradesh,Aishwarya,pg arts,female,BHU,Varanasi,laptop,jio,mobile data,5,no,4,yes,no,yes,yes,1,8,10,9,6,1,No
+107,National Capital Territory of Delhi,Shelly,ug commerce,female,DU sol,Shalimar bagh Delhi,mobile,jio,mobile data,1,no,6,no,no,no,yes,2,10,10,8,8,10,No
+108,Bihar,Vivek,pg arts,male,BHU,"Varanasi,U.P.",mobile,airtel,mobile data,7,yes,4,yes,yes,yes,yes,5,9,8,10,8,5,No
+109,Maharashtra,,pg science,female,Cummins,Pune,mobile,jio,wifi,5,no,5,yes,no,no,yes,5,8,8,10,8,5,Yes
+110,National Capital Territory of Delhi,Bhavneet,ug commerce,female,Sgtb khalsa college,Delhi,laptop,jio,wifi,2,yes,5,no,no,no,no,1,3,8,10,5,3,Yes
+111,Bihar,Amal Hansda,ug arts,male,ASCollage deoghar,Deoghar,mobile,jio,mobile data,7,no,1,no,yes,no,no,4,5,10,10,5,8,Yes
+112,Uttar Pradesh,Suvichak Chaidee,pg arts,male,BHU,Varanasi,mobile,airtel,mobile data,7,yes,3,no,no,no,yes,3,2,7,8,5,3,No
+113,National Capital Territory of Delhi,Jitesh,ug law,male,Amity,Delhi,laptop,wifi,wifi,4,no,4,no,yes,yes,yes,5,5,5,8,1,3,No
+114,Maharashtra,Hema Gupta,pg science,female,MIT,Nagpur,laptop,jio,mobile data,3,no,9,no,yes,yes,yes,2,5,10,10,6,5,No
+115,National Capital Territory of Delhi,Yukta Sharma,ug commerce,female,"Bharati College,DU",Delhi,mobile,local wifi,mobile data,1,no,6,no,yes,yes,no,1,8,10,10,4,8,No
+116,National Capital Territory of Delhi,Shruti Jain,ug commerce,female,vips,Delhi,mobile,jio,mobile data,4,yes,8,yes,yes,yes,yes,5,1,1,1,1,1,No
+117,,Snehal K. Avhad,pg science,female,MIT WPU,Pune,mobile,bsnl,mobile data,1,no,8,no,yes,no,no,4,3,9,9,7,2,Yes
+118,Bihar,Apoorva,ug commerce,female,Mit Pune,Deoghar,laptop,local wifi,wifi,5,yes,5,no,yes,no,yes,5,5,10,10,5,5,No
+119,Maharashtra,Rupa Mullya,pg science,female,Bharati vidyapeeth,Maharashtra,mobile,jio,mobile data,5,no,5,no,no,yes,no,1,5,9,9,6,1,Yes
+120,National Capital Territory of Delhi,Lucifer Morningstar,pg science,female,The college of the damned,Los Angeles,laptop,local wifi,wifi,2,no,10,yes,yes,yes,yes,3,4,10,10,1,1,Yes
+121,Maharashtra,Apurva Kamtikar,pg commerce,female,Sppu,Maharashtra,mobile,jio,mobile data,2,no,6,no,yes,yes,yes,4,4,10,10,5,10,No
+122,Uttar Pradesh,Ridhvik Pathak,pg commerce,male,Savitribai Phule Pune University,Pune,mobile,Idea,mobile data,6,no,4,no,no,yes,no,4,6,10,10,10,1,Yes
+123,Maharashtra,Geeta bhatt,pg science,female,Savitribai phule Pune University,Pune,mobile,jio,mobile data,6,yes,6,no,yes,yes,yes,8,3,7,9,5,7,No
+124,National Capital Territory of Delhi,Sukanya Sharma,pg arts,female,Savitribai Phule Pune University,Pune,mobile,jio,wifi,1,no,3,no,no,yes,yes,3,8,10,10,9,9,Yes
+125,Maharashtra,Noorin,pg arts,female,SPPU,"Pune University,411007",mobile,jio,mobile data,2,no,4,no,yes,no,yes,2,10,10,10,7,5,No
+126,Maharashtra,Gauri Kailas kombade,pg commerce,female,Savitribai Phule Pune University,Maharashtra,mobile,vodafone,mobile data,4,no,6,no,yes,yes,yes,3,6,9,10,7,1,No
+127,Uttar Pradesh,Harshita vardhan,pg arts,female,Banaras hindu University,Uttar Pradesh,mobile,local wifi,wifi,2,yes,4,no,yes,no,no,7,2,9,9,7,6,Yes
+128,Maharashtra,Justin krishnan,pg science,male,Mit wpu,Pune,laptop,jio,mobile data,3,no,7,no,yes,no,yes,5,5,8,8,6,9,Yes
+129,Chhattisgarh,Aarti Jha,pg arts,female,BHU,Varanasi,laptop,jio,mobile data,7,no,6,no,yes,yes,no,8,8,10,10,8,8,No
+130,Maharashtra,Keshav Gaikwad,ug science,male,MMIT,Maharashtra,mobile,idea,mobile data,6,no,3,no,no,no,no,1,2,4,4,6,10,Yes
+131,British Columbia,Jaskaran,pg science,male,Vanarts,Surrey,laptop,local wifi,wifi,1,yes,6,no,yes,no,no,1,2,10,10,9,5,No
+132,West Bengal,Prittam Goswami,ug science,male,Haldia Institute of Technology,Haldia,mobile,local wifi,wifi,3,yes,9,no,no,yes,no,1,3,9,9,9,2,Yes
+133,Maharashtra,Shweta sanjay choudhary,pg science,female,"Modern college of science arts and commerce,shivajinagar",Pune,laptop,local wifi,wifi,1,no,9,yes,yes,yes,no,6,5,8,8,5,9,No
+134,Uttar Pradesh,Ayushi Garg,pg commerce,female,Amity Business School,Uttar Pradesh,laptop,local wifi,wifi,1,yes,6,no,no,no,yes,4,10,10,10,3,1,Yes
+135,National Capital Territory of Delhi,Harneek,ug science,male,Amity,Noida,mobile,jio,mobile data,2,yes,6,no,no,no,no,3,8,8,8,4,9,Yes
+136,Uttar Pradesh,Kushank Sehgal,pg science,male,Lambton college Toronto,Meerut,laptop,airtel,wifi,1,yes,5,no,yes,no,no,2,10,10,10,10,2,No
+137,Andhra Pradesh,Himanshu Ranjan,school,male,Bal bhavan international school,Delhi,mobile,local wifi,wifi,1,yes,9,no,yes,no,yes,3,8,8,8,8,6,No
+138,West Bengal,Gautam Luthra,ug science,male,AEC,Asansol,mobile,airtel,mobile data,2,yes,10,no,no,no,yes,4,6,9,10,6,5,No
+139,National Capital Territory of Delhi,Shabad,pg commerce,male,Amity,Delhi,mobile,local wifi,wifi,1,yes,3,no,no,no,no,3,1,5,7,1,1,Yes
+140,National Capital Territory of Delhi,Mhammmed,ug science,male,Arunachal University of Studies,"Arunachal Pardesh,Namsai",laptop,local wifi,wifi,1,yes,2,no,no,no,no,1,10,4,8,10,7,Yes
+141,West Bengal,Amit,pg science,male,"Faulty of computers science,du",Delhi,laptop,jio,wifi,1,yes,7,no,yes,yes,yes,1,4,10,10,5,7,No
+142,Maharashtra,Harshada Dhawade,pg science,female,MIT WPU,Pune,laptop,airtel,wifi,8,no,8,no,yes,yes,no,7,7,9,7,6,7,No
+143,National Capital Territory of Delhi,Lavanay Mishra,ug science,male,Amity University,Noida,mobile,local wifi,wifi,3,Yes,9,no,no,yes,yes,1,6,10,8,7,8,No
+144,National Capital Territory of Delhi,Dherya Gandhi,pg science,female,Amity University Noida,Uttar Pradesh,laptop,airtel,wifi,4,yes,5,no,no,yes,no,6,8,10,10,8,8,Yes
+145,Maharashtra,Dhanashree Jadhav,pg science,female,MIT,Pune,mobile,airtel,mobile data,2,yes,5,no,no,no,no,3,4,10,10,5,6,Yes
+146,Maharashtra,Namrata k,pg commerce,female,University of Pune,Maharashtra,mobile,local wifi,wifi,1,no,1,yes,no,no,yes,1,5,10,8,7,1,Yes
+147,West Bengal,Kavita,ug science,female,Bhu,Bananas,laptop,jio,mobile data,2,no,7,no,yes,yes,yes,1,6,10,10,5,5,Yes
+148,Maharashtra,,pg science,male,,Pune,laptop,jio,mobile data,5,yes,5,no,yes,no,no,1,5,10,5,8,5,Yes
+149,Andhra Pradesh,Gourangi Joshi,pg commerce,female,DCRC SPPU,Pune,mobile,local wifi,wifi,2,no,6,yes,no,yes,yes,3,8,10,10,9,8,No
+150,Maharashtra,dhanashree vijay patange,pg commerce,female,sppu dccrc,baramati,mobile,airtel,mobile data,9,no,4,yes,yes,yes,yes,7,8,8,8,8,10,No
+151,Tamil Nadu,David,pg science,male,Amity University,U.P/Noida,mobile,airtel,mobile data,6,no,8,yes,yes,yes,yes,8,9,7,8,9,8,Yes
+152,,Azima Davlatkhojaeva,pg commerce,female,Savitribhai Phule Pune University,Pune,laptop,airtel,mobile data,7,no,10,yes,yes,yes,yes,5,7,6,6,5,5,No
+153,Uttar Pradesh,Ayush shukla,pg commerce,male,Sppu,Uttar Pradesh,laptop,local wifi,wifi,1,yes,3,no,yes,no,no,1,3,9,8,4,2,Yes
+154,Maharashtra,Sourabh Marne,pg science,male,Royal Holloway University London,United Kingdom,mobile,local wifi,wifi,4,yes,8,no,no,yes,yes,2,5,4,10,8,3,Yes
+155,Haryana,Devleen Das,pg science,male,Amity University,Noida,laptop,jio,wifi,1,yes,8,no,yes,no,yes,1,5,10,10,8,2,No
+156,West Bengal,Anirban Das,pg science,male,Techno India international Rajarhat,Kolkata,mobile,airtel,wifi,3,yes,6,no,no,no,no,6,7,8,9,9,9,No
+157,Maharashtra,,pg science,male,,Pune,mobile,jio,mobile data,5,no,6,no,no,no,no,4,5,9,7,1,8,No
+158,Uttar Pradesh,Apoorv,ug science,male,Amity,Meerut,mobile,local wifi,mobile data,1,yes,6,no,no,no,no,1,8,9,10,7,1,No
+159,West Bengal,Nilakshi,ug science,female,Sri Venkateswara College,Delhi,mobile,local wifi,wifi,2,yes,6,no,yes,yes,no,2,2,10,8,6,6,Yes
+160,Karnataka,Nazish Asghar,pg science,male,Jain University,Karnataka,mobile,vodafone,mobile data,5,yes,4,no,yes,no,no,8,8,8,10,5,9,Yes
+161,West Bengal,Shiva Majhi,ug science,male,GCEK,Asansol,mobile,jio,mobile data,8,no,1,no,yes,yes,no,6,1,10,10,5,10,No
+162,West Bengal,khushboo,ug law,female,GLC,Mumbai,mobile,jio,wifi,2,no,7,no,yes,yes,yes,4,3,10,10,5,5,No
+163,West Bengal,rajesh,pg arts,male,BHU,west bengal,mobile,jio,wifi,1,no,7,no,yes,no,no,1,5,10,10,5,1,No
+164,West Bengal,Paromita,ug science,female,UEM,Kolkata,mobile,jio,mobile data,1,yes,7,no,yes,yes,yes,1,5,10,10,5,1,Yes
+165,West Bengal,Sandhya,pg commerce,female,Jaipuria,Kolkata,laptop,jio,wifi,1,no,7,no,yes,yes,yes,1,5,10,10,5,1,Yes
+166,West Bengal,Sunny,ug science,male,Amity kolkaata,Kolkata,mobile,jio,wifi,1,no,7,no,yes,yes,yes,1,5,10,10,5,1,No
+167,West Bengal,Gaurav,ug commerce,male,Jain,Karnataka,mobile,airtel,wifi,1,no,7,no,no,yes,yes,1,5,10,10,5,1,No
+168,West Bengal,Aneek,ug science,male,Amity ranchi,Jharkhand,laptop,jio,wifi,1,no,7,no,yes,yes,yes,1,4,10,10,5,1,Yes
+169,West Bengal,naresh,pg commerce,male,amity,noida,laptop,jio,wifi,1,no,7,no,yes,no,yes,2,5,10,10,5,1,No
+170,West Bengal,harminder,ug arts,male,bb college,asansol,laptop,jio,wifi,1,no,7,no,yes,no,no,1,4,10,10,10,2,Yes
+171,West Bengal,animesh,pg commerce,male,jadavpur,kolkata,laptop,jio,wifi,2,no,7,no,yes,yes,yes,1,5,10,10,10,2,Yes
+172,Bihar,satyam kumar,ug science,male,Amity University Noida,Uttar Pradesh,mobile,airtel,mobile data,1,yes,7,no,yes,no,yes,1,5,10,10,5,6,Yes
+173,West Bengal,Shweta,ug law,female,Ils,Pune,laptop,jio,wifi,1,no,7,no,yes,yes,yes,1,5,10,10,5,6,Yes
+174,National Capital Territory of Delhi,UTKARSH MADAAN,pg science,male,Amity university,HARYANA,laptop,airtel,wifi,1,yes,6,no,no,no,no,1,5,4,10,4,10,No
+175,Maharashtra,Gaurav Shitole,pg science,male,Mit wpu,"Saffron avenue A101,Bavdhan pune",laptop,local wifi,wifi,1,yes,10,no,yes,no,yes,10,10,10,10,6,6,Yes
+176,West Bengal,Harsh Madhogaria,ug science,male,Indian institute of petroleum and energy,Visakhapatnam,laptop,local wifi,wifi,4,Yes,5,no,no,no,no,7,2,9,10,3,2,No
+177,Maharashtra,Rashmi bhokare,ug science,female,MIT,Pune,laptop,jio,wifi,1,yes,5,no,yes,yes,yes,8,5,1,5,5,5,No
+178,Maharashtra,Advait Pade,pg science,male,MIT WPU,Pune,mobile,jio,mobile data,4,no,7,no,no,no,no,1,7,10,10,5,5,Yes
+179,Maharashtra,Apurva jadhav,ug science,female,Mmcc,Katraj,laptop,local wifi,wifi,2,no,8,no,no,no,yes,1,5,5,5,5,5,Yes
+180,Maharashtra,Priyanka Lohokare,pg science,female,Mit wpu,Pune,laptop,local wifi,wifi,2,no,8,no,yes,no,no,4,7,8,9,7,5,No
+181,West Bengal,amritendu,ug commerce,male,aec,mysore,laptop,jio,mobile data,1,no,7,no,yes,no,no,1,3,10,6,5,5,Yes
+182,Jharkhand,manisha,pg science,female,christ,bangalore,laptop,jio,wifi,1,yes,7,no,yes,no,no,1,5,10,8,5,5,No
+183,West Bengal,arun singh,ug arts,male,punjab university,chandigarh,mobile,jio,wifi,1,no,7,no,yes,yes,yes,1,5,10,8,5,5,Yes
+184,West Bengal,gauri deshmukh,ug commerce,female,bhawanipur college,kolkata,mobile,jio,mobile data,5,no,7,no,yes,yes,yes,1,5,10,8,5,4,Yes
+185,West Bengal,sourab tyagi,pg commerce,male,amity,noida,laptop,airtel,mobile data,1,no,7,no,yes,yes,yes,1,5,10,8,5,4,No
+186,West Bengal,tamanah,pg science,female,amity university,noida,mobile,vodafone,mobile data,2,no,7,no,yes,yes,yes,1,5,10,8,5,7,No
+187,West Bengal,anirudh shah,ug science,male,surendranath college,kolkata,mobile,jio,mobile data,1,yes,7,no,yes,yes,yes,1,5,10,8,5,1,Yes
+188,West Bengal,nishant sharma,ug commerce,male,christ university,bangalore,mobile,jio,wifi,1,no,7,no,yes,yes,yes,1,5,10,9,5,1,No
+189,West Bengal,shreya sharma,ug science,female,aec,asansol,laptop,airtel,mobile data,1,no,7,no,yes,yes,yes,2,5,10,8,5,2,No
+190,West Bengal,sumit jha,pg science,male,bb college,asansol,mobile,jio,mobile data,1,yes,7,no,yes,no,no,1,5,10,8,5,4,Yes
+191,West Bengal,umang jha,ug commerce,male,bhwanipur,kolkata,laptop,airtel,mobile data,3,yes,7,no,yes,yes,yes,5,5,10,9,5,4,Yes
+192,West Bengal,Amit singh,pg science,male,Aec,West bengal,mobile,jio,wifi,1,yes,7,no,yes,yes,yes,1,6,10,9,5,1,Yes
+193,West Bengal,aishik bose,pg science,male,amity university,noida,mobile,airtel,mobile data,2,yes,7,no,yes,no,no,3,5,10,9,5,2,No
+194,West Bengal,deep kashyap,ug science,male,UEM,kolkata,mobile,jio,wifi,1,yes,7,no,yes,yes,yes,5,5,10,10,5,1,No
+195,West Bengal,barkha singh,ug science,female,techo india university,kolkata,mobile,jio,wifi,1,no,7,no,yes,yes,yes,3,5,10,9,5,2,Yes
+196,Bihar,Umang Jha,pg commerce,male,Bhawanipur College,Kolkata,laptop,jio,wifi,1,yes,4,no,yes,no,no,1,4,8,8,4,5,No
+197,West Bengal,Pallavi banarjee,ug science,female,Technoindia University,Kolkata,mobile,jio,wifi,1,no,7,no,yes,yes,yes,5,5,10,10,5,6,No
+198,West Bengal,abdul,ug commerce,male,amity,noida,laptop,jio,mobile data,1,yes,7,no,yes,yes,yes,1,5,10,10,5,1,No
+199,West Bengal,simran sharma,pg science,female,amity,noida,laptop,local wifi,wifi,1,no,7,no,yes,no,no,1,5,10,10,5,1,No
+200,West Bengal,Ruchi gupta,pg science,female,Amity University,Kolkata,mobile,jio,wifi,1,no,7,no,yes,no,no,3,5,10,10,5,1,No
+201,West Bengal,satyender shah,pg science,male,amity university,noida,laptop,airtel,mobile data,1,no,7,no,no,yes,yes,1,5,10,10,5,4,No
+202,West Bengal,animesh kushwa,pg science,male,anna university,chennai,mobile,jio,wifi,1,no,7,no,yes,no,no,1,5,10,10,5,5,Yes
+203,West Bengal,simran singh,pg arts,female,BHU,west bengal,laptop,jio,wifi,1,yes,7,no,no,no,no,2,5,10,10,5,5,No
+204,West Bengal,somiya sharma,ug arts,female,bc college,asansol,laptop,jio,mobile data,1,no,7,no,yes,no,no,1,5,10,10,5,4,Yes
+205,West Bengal,mitali sharma,ug commerce,female,shikshayatan college,kolkata,laptop,airtel,wifi,1,yes,8,no,yes,yes,yes,2,5,10,10,5,6,Yes
+206,Jharkhand,amrish banerjee,pg commerce,male,ashutosh college,calcutta university,laptop,jio,mobile data,2,no,7,no,yes,no,no,5,5,10,10,5,5,Yes
+207,Jharkhand,ravina chandrekar,pg science,female,sppu,pune,laptop,jio,wifi,3,no,7,no,yes,no,no,4,5,10,10,5,5,No
+208,Jharkhand,rajveer singh,ug science,male,calcutta university,kolkata,mobile,airtel,mobile data,2,no,7,no,yes,yes,yes,2,5,10,10,5,4,Yes
+209,Jharkhand,rishabh khaitan,ug law,male,bangalore university,bangalore,mobile,local wifi,wifi,2,no,7,no,yes,yes,yes,6,5,10,10,5,4,Yes
+210,Jharkhand,sushil kujur,ug arts,male,lnmu,calcutta,laptop,jio,mobile data,1,yes,7,no,yes,yes,yes,5,5,10,10,5,5,No
+211,Jharkhand,shalini trivedi,pg science,female,lnmu,kolkata,mobile,jio,mobile data,1,no,7,no,yes,yes,yes,5,5,10,10,5,1,No
+212,Jharkhand,maninder singh,ug science,male,lnmu,kolkata,mobile,airtel,mobile data,2,no,7,no,yes,yes,yes,2,5,10,10,5,2,No
+213,Jharkhand,aprajita sah,ug commerce,female,shikshayatan,kolkata,laptop,jio,wifi,1,no,7,no,yes,yes,yes,1,5,10,10,5,1,No
+214,Jharkhand,ayushman,ug science,male,lnmu,kolkata,laptop,jio,wifi,1,yes,7,no,yes,yes,yes,3,5,10,10,5,1,No
+215,Jharkhand,muskan,school,female,school,asansol,mobile,airtel,wifi,1,no,5,no,no,no,no,5,5,10,10,5,2,Yes
+216,Jharkhand,aman mishra,school,male,school svs,asansol,mobile,jio,wifi,3,no,7,no,yes,no,no,5,5,9,9,5,2,Yes
+217,Jharkhand,Parineeti,school,female,Svs,Asansol,mobile,jio,wifi,2,no,7,no,yes,yes,yes,3,6,10,10,5,2,No
+218,Jharkhand,siddhant,ug science,male,kiit,kolkata,laptop,airtel,mobile data,1,no,7,no,yes,yes,yes,1,5,10,10,5,1,No
+219,Jharkhand,md imran,school,male,sps,asansol,mobile,jio,mobile data,3,yes,7,no,yes,no,no,3,6,10,10,5,2,Yes
+220,Jharkhand,saurabh prasad,school,male,svs school,asansol,mobile,jio,mobile data,1,no,7,no,yes,no,no,2,5,10,10,5,6,Yes
+221,Jharkhand,gaurav pani,ug science,male,kiit,kolkata,laptop,local wifi,wifi,1,no,7,no,yes,yes,yes,2,5,10,10,5,2,No
+222,Jharkhand,sameer kapahi,ug arts,male,amity noida,noida,laptop,jio,wifi,1,yes,7,no,yes,yes,yes,1,5,10,10,5,4,No
+223,Jharkhand,mitali sharma,ug commerce,female,bhu,varanasi,laptop,jio,wifi,1,no,6,no,no,yes,yes,2,5,10,10,5,4,No
+224,Jharkhand,md saif,pg science,male,aec,asansol,laptop,jio,wifi,1,no,7,no,no,no,no,1,5,10,10,5,1,Yes
+225,Jharkhand,disha sharma,ug science,female,aec,asansol,laptop,jio,wifi,1,no,7,no,yes,no,no,1,5,10,10,5,2,Yes
+226,Jharkhand,amit pandey,pg science,male,aec,asansol,laptop,local wifi,wifi,1,yes,7,no,yes,yes,no,1,5,10,10,5,1,Yes
+227,Jharkhand,shresth saran,ug commerce,male,aec,asansol,laptop,jio,wifi,1,no,7,no,no,yes,yes,1,5,10,10,5,5,Yes
+228,Jharkhand,manali shenoy,pg commerce,female,lnmu,kolkata,mobile,jio,wifi,2,no,7,no,no,yes,yes,1,5,10,10,5,1,No
+229,Jharkhand,prashant nishant,pg science,male,udemy,kolkata,laptop,jio,wifi,3,no,6,no,no,yes,yes,1,5,9,9,5,5,No
+230,Jharkhand,pratibha sah,pg science,female,lnmu,kolkata,laptop,airtel,wifi,1,no,5,no,no,no,no,1,5,9,9,5,1,No
+231,West Bengal,fatima,pg arts,female,AMU,UP,laptop,jio,mobile data,2,no,7,no,no,no,no,3,5,10,10,5,4,Yes
+232,West Bengal,vikramjit sharma,ug science,male,Amity,westbengal,laptop,jio,wifi,3,no,7,no,no,no,no,3,5,10,10,5,10,No
+233,West Bengal,ajay rana,pg science,male,Amity,west bengal,mobile,jio,wifi,1,no,6,yes,no,no,no,1,5,10,10,5,2,Yes
+234,West Bengal,suresh tiwari,ug commerce,male,surendranth college,calcutta,laptop,airtel,mobile data,1,no,7,no,no,no,no,1,5,10,10,5,4,No
+235,West Bengal,sarbati sen,pg commerce,female,jaipuria college,kolkata,mobile,vodafone,mobile data,1,no,7,no,no,yes,yes,1,5,10,10,5,4,Yes
+236,West Bengal,suryansh goel,ug commerce,male,ju,kolkata,laptop,airtel,wifi,2,no,7,no,no,no,no,3,6,10,10,5,6,No
+237,West Bengal,shasak raina,ug commerce,male,amity,kolkata,laptop,vodafone,mobile data,2,yes,7,no,no,yes,yes,2,5,10,10,5,2,No
+238,West Bengal,gayatri sharma,pg commerce,female,amity,kolkata,laptop,jio,mobile data,2,no,6,no,yes,no,no,3,5,9,9,5,5,No
+239,West Bengal,ashwin yadav,ug science,male,lnmu,kolkata,mobile,jio,wifi,2,no,7,no,no,yes,yes,3,5,8,8,5,4,Yes
+240,West Bengal,pratibha sharma,ug commerce,female,surendranath,calcutta,laptop,airtel,wifi,4,no,6,no,yes,no,no,7,5,8,9,5,3,No
+241,West Bengal,aman aulakh,ug arts,male,punjab university,chandigarh,laptop,jio,wifi,1,no,6,yes,yes,no,no,2,5,9,9,5,7,No
+242,West Bengal,Samaira mehra,ug law,female,Amity,Noida,laptop,jio,wifi,1,yes,6,no,yes,no,no,1,5,8,8,5,5,No
+243,West Bengal,sunny sakhuja,school,male,svs,asansol,mobile,jio,wifi,2,yes,8,yes,no,yes,yes,2,5,9,9,5,6,No
+244,West Bengal,divesh sharma,ug science,male,gangram,asansol,laptop,airtel,wifi,3,yes,8,yes,no,no,yes,2,5,9,9,5,1,No
+245,West Bengal,Aman babbar,pg commerce,male,amity,kolkata,laptop,jio,mobile data,3,yes,6,no,no,yes,yes,2,5,9,9,5,5,No
+246,West Bengal,Manali kahana,ug science,female,Bhu,Up,laptop,jio,mobile data,3,no,7,yes,no,no,yes,5,5,9,9,5,2,Yes
+247,West Bengal,priti agarwal,ug commerce,female,amity,kolkata,mobile,airtel,mobile data,1,yes,7,no,yes,no,no,3,5,10,9,5,7,No
+248,West Bengal,arindam roy,pg science,male,amity university,kolkata,laptop,jio,wifi,1,yes,6,no,no,yes,yes,2,5,10,10,5,9,Yes
+249,West Bengal,aman sharma,ug science,male,Amity noida,UP,laptop,local wifi,wifi,2,yes,7,no,no,no,no,2,5,9,9,5,2,Yes
+250,West Bengal,amit sanyal,school,male,svs,asansol,laptop,jio,wifi,2,yes,6,no,no,no,no,2,5,10,9,5,4,Yes
+251,West Bengal,gaurav pani,ug science,male,srm university,chennai,laptop,jio,wifi,3,yes,7,no,no,no,yes,1,5,9,9,5,3,No
+252,West Bengal,atharva,ug science,male,amity university,noida,laptop,jio,wifi,2,yes,6,no,no,yes,yes,2,5,9,9,5,2,Yes
+253,West Bengal,gaurav sarkar,pg arts,male,BHU,UP,laptop,vodafone,wifi,2,no,7,no,no,no,no,3,5,9,10,5,3,Yes
+254,West Bengal,mitali mukherjee,school,female,svs,asansol,mobile,jio,wifi,2,no,7,yes,yes,no,no,4,5,10,10,5,1,Yes
+255,West Bengal,deep srivastav,ug science,male,Amity university,UP,laptop,local wifi,wifi,2,no,7,no,yes,no,yes,2,5,10,9,5,2,Yes
+256,West Bengal,Shambhu srivastav,ug science,male,Aec,Asansol,laptop,airtel,mobile data,2,no,7,yes,no,yes,yes,3,5,7,7,5,2,Yes
+257,West Bengal,munna tripathi,pg science,male,ganjumal college,Mirzapur,mobile,jio,mobile data,3,yes,5,yes,yes,yes,yes,2,5,9,9,5,1,Yes
+258,West Bengal,hardeep sachdeva,ug law,male,ILS,pune,laptop,jio,wifi,2,yes,7,no,no,yes,yes,4,5,9,8,5,5,No
+259,West Bengal,satyam sharma,ug commerce,male,tdb,asansol,mobile,airtel,mobile data,3,yes,7,no,no,yes,yes,5,5,10,9,6,1,No
+260,West Bengal,Kaleen bhaiya,pg science,male,Mirzapur,Mirzapur,laptop,jio,wifi,3,Yes,7,no,yes,no,no,1,5,10,10,5,1,No
+261,West Bengal,jagdeep singh,pg science,male,aec,asansol,laptop,jio,wifi,2,yes,7,no,no,yes,yes,1,5,10,10,5,2,Yes
+262,West Bengal,megha jha,pg commerce,female,AEC,asansol,laptop,jio,wifi,3,yes,7,no,no,no,no,1,5,9,9,5,2,Yes
+263,West Bengal,neha sharama,ug arts,female,AEC,asansol,laptop,airtel,mobile data,2,yes,7,no,no,yes,yes,2,5,10,10,5,4,Yes
+264,West Bengal,Kartik,ug arts,male,Bb college,Asansol,laptop,jio,wifi,3,yes,7,no,yes,yes,yes,3,4,8,8,4,9,Yes
+265,West Bengal,ajay rana,pg science,male,amity  noida,UP,laptop,jio,wifi,2,yes,7,no,no,yes,yes,2,5,9,9,5,5,No
+266,West Bengal,mouni roy,ug arts,female,tdb,asansol,laptop,airtel,mobile data,3,yes,7,no,yes,yes,yes,4,6,9,9,6,2,No
+267,West Bengal,pooja mishra,pg science,female,tdb,asansol,laptop,jio,wifi,1,yes,7,no,yes,yes,yes,2,5,10,10,5,2,No
+268,West Bengal,Alia sunaina,pg commerce,female,Tdb,Asansol,mobile,airtel,wifi,2,yes,7,no,yes,no,yes,3,5,9,10,5,4,Yes
+269,West Bengal,laxmi ahuja,ug science,female,amity university,noida,laptop,jio,mobile data,3,yes,7,no,no,yes,yes,2,5,10,10,4,3,No
+270,West Bengal,honey babbar,ug commerce,male,aec,asansol,mobile,airtel,wifi,2,yes,7,no,yes,no,no,2,5,10,10,5,1,No
+271,West Bengal,arjun jha,ug commerce,male,aec,asansol,laptop,jio,mobile data,2,yes,7,no,yes,yes,yes,2,5,10,10,5,8,Yes
+272,West Bengal,saurav sha,school,male,svs,asansol,mobile,jio,wifi,2,yes,7,yes,yes,no,no,2,4,8,9,4,6,No
+273,West Bengal,animesh bhattacharjee,ug science,male,dr bc roy engineering college,durgapur,laptop,airtel,mobile data,3,yes,7,no,no,yes,yes,3,5,10,10,5,4,Yes
+274,West Bengal,mandep singh,ug science,male,amity university,noida,laptop,local wifi,wifi,2,no,7,no,no,no,no,3,5,10,10,5,1,No
+275,West Bengal,Vijay sharma,ug commerce,male,Tdb,Asansol,laptop,jio,mobile data,2,yes,6,no,yes,no,yes,2,5,9,8,5,4,Yes
+276,West Bengal,neha sharma,ug commerce,female,surendranath,kolkata,mobile,jio,wifi,2,yes,6,no,no,yes,yes,2,5,10,10,5,1,No
+277,West Bengal,avinash singh,ug arts,female,aurobindo college,delhi,laptop,airtel,wifi,2,yes,7,no,no,yes,yes,2,5,9,9,6,6,Yes
+278,West Bengal,satyam srivastav,ug commerce,male,amity,noida,laptop,airtel,wifi,3,yes,6,no,no,yes,yes,2,5,8,8,5,4,Yes
+279,West Bengal,kriti sharma,pg science,female,ju,kolkata,mobile,airtel,wifi,2,yes,7,yes,yes,no,no,2,5,8,8,5,8,No
+280,West Bengal,anshuman bora,ug science,male,amity university,noida,laptop,local wifi,wifi,2,no,7,no,yes,no,yes,3,5,8,8,5,1,Yes
+281,West Bengal,daada tyagi,pg science,male,sivan,sivan bihar,laptop,jio,wifi,5,yes,7,no,no,yes,yes,2,5,9,9,1,1,No
+282,West Bengal,ayushman khurana,pg commerce,male,jadavpur,kolkata,laptop,jio,wifi,2,no,6,no,no,yes,yes,4,6,9,9,6,2,Yes
+283,West Bengal,shalini sharma,pg commerce,female,Amity,kolkata,laptop,airtel,wifi,2,no,6,yes,yes,no,no,2,6,9,9,6,5,Yes
+284,West Bengal,yoshita malik,pg arts,female,gspu,kolkata,laptop,jio,wifi,5,yes,7,yes,no,yes,yes,2,5,9,8,5,6,Yes
+285,Maharashtra,Ninad Sumant,pg science,male,MIT-WPU,Pune,mobile,jio,mobile data,5,no,6,no,yes,yes,no,4,9,7,7,5,4,No
+286,West Bengal,anil jha,ug arts,male,bb college,asansol,laptop,airtel,wifi,2,no,6,no,no,yes,yes,5,5,8,8,6,4,No
+287,West Bengal,tapas chatterjee,ug commerce,male,Bidhan chandra college,asansol,laptop,jio,wifi,3,no,6,no,no,no,no,3,4,9,9,4,2,Yes
+288,West Bengal,shouvik banerjee,pg commerce,male,bc colleg,asansol,mobile,jio,wifi,3,no,6,no,no,yes,yes,3,5,10,9,5,3,Yes
+289,West Bengal,shrey srivastava,pg science,male,AUUP,noida,laptop,jio,wifi,1,no,6,no,no,no,no,1,5,10,10,5,4,No
+290,West Bengal,nishtha dixit,pg science,female,AUUP,noida,laptop,jio,wifi,2,yes,6,no,yes,no,no,1,6,8,8,6,1,Yes
+291,West Bengal,zuhair rashid,ug science,male,auup,noida,laptop,local wifi,wifi,3,yes,6,no,no,no,no,2,5,9,9,5,9,No
+292,West Bengal,pushpinder khurmi,pg arts,male,cu,calcutta,laptop,airtel,mobile data,3,no,6,no,no,no,no,2,4,9,9,5,5,Yes
+293,West Bengal,aditya shharma,ug science,male,AUUP,UP,laptop,local wifi,wifi,2,no,7,no,no,no,yes,3,6,9,9,5,2,Yes
+294,West Bengal,dipak jha,pg science,male,rao institute,asansol,laptop,jio,wifi,2,yes,5,no,no,no,yes,5,5,10,9,5,3,No
+295,West Bengal,Niti sharama,school,female,Svs,Asansol,mobile,airtel,mobile data,2,no,6,no,yes,no,no,2,10,10,9,5,1,No
+296,West Bengal,mithun gorai,ug commerce,male,bc college,asansol,laptop,airtel,wifi,2,no,6,no,no,yes,yes,2,6,9,10,5,4,No
+297,West Bengal,randhir,ug science,male,aec,asansol,laptop,jio,wifi,3,no,7,no,no,no,no,2,5,9,9,7,3,No
+298,West Bengal,tushar,pg science,male,nmims,mumbai,laptop,airtel,mobile data,4,yes,7,no,no,no,no,4,3,6,8,5,5,No
+299,West Bengal,priya mehra,school,female,svs,asansol,mobile,jio,wifi,3,yes,6,no,no,yes,yes,2,4,9,9,4,2,No
+300,West Bengal,mineet kazi,ug arts,male,mu,mumbai,laptop,local wifi,wifi,3,no,7,yes,no,no,no,2,5,8,9,5,1,No
+301,West Bengal,amrit  bose,school,male,sps,asansol,laptop,jio,wifi,2,yes,7,no,no,no,yes,1,5,10,10,5,1,Yes
+302,West Bengal,tuhin ghosh,ug commerce,male,bges,calcutta,laptop,jio,wifi,1,no,6,no,no,no,no,3,5,9,9,5,2,Yes
+303,West Bengal,bulbul,school,female,svs,asansol,laptop,jio,mobile data,2,yes,7,no,yes,no,no,2,5,9,10,5,8,No
+304,West Bengal,koushik gorai,school,male,svs,asansol,laptop,jio,wifi,3,yes,6,no,no,no,yes,3,5,10,9,5,6,Yes
+305,West Bengal,md salman,school,male,svs,asn,laptop,airtel,wifi,2,no,6,no,no,no,yes,2,4,8,8,5,5,No
+306,West Bengal,prashant sharma,ug science,male,auup,up,mobile,jio,wifi,2,no,6,no,no,yes,yes,2,5,10,10,5,1,Yes
+307,West Bengal,supriya,ug law,male,ils,pune,mobile,jio,mobile data,2,no,6,no,no,no,yes,2,5,10,10,5,4,No
